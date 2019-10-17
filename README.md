@@ -1,5 +1,5 @@
 
-# SQL Practice - Section Recap
+# More SQL - Recap
 
 ## Open-ended Questions in Interviews
 
